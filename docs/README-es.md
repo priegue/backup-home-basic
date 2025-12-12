@@ -48,3 +48,22 @@ Los registros de ejecución se guardan en:
 
 ## 📄 Licencia
 Este proyecto es libre para estudio, uso personal y modificación.
+
+------------------------------------------------------------
+
+## ⭐ Sobre este repositorio
+
+Este proyecto forma parte de mi portafolio DevOps.  
+Demuestra prácticas reales de automatización, organización, documentación multilingüe y versionamiento 
+estructurado.
+
+### ✔ Habilidades aplicadas en este proyecto:
+- Automatización con Shell Script
+- Estructura profesional de directorios
+- Creación de logs y auditoría
+- Uso avanzado de Git y GitHub (Commits, Releases, Tags)
+- Documentación técnica en 3 idiomas
+- Uso de badges y versionamiento semántico
+- Entrega de artefactos empaquetados (archivos ZIP)
+
+Siéntete libre de abrir issues, sugerencias o pull requests.

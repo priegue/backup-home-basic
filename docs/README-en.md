@@ -48,3 +48,22 @@ Log records will be stored in:
 
 ## 📄 License
 This project is free for study, personal use and modification.
+
+------------------------------------------------------------
+
+## ⭐ About this repository
+
+This project is part of my DevOps portfolio.  
+It demonstrates real practices of automation, organization, multi-language documentation, and structured 
+versioning.
+
+### ✔ Skills applied in this project:
+- Shell Script automation
+- Professional directory structure
+- Log creation and auditing
+- Advanced Git and GitHub usage (Commits, Releases, Tags)
+- Technical documentation in 3 languages
+- Use of badges and semantic versioning
+- Delivery of packaged artifacts (ZIP files)
+
+Feel free to open issues, suggestions or pull requests.

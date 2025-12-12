@@ -1,3 +1,9 @@
+![status](https://img.shields.io/badge/status-stable-brightgreen)
+![language](https://img.shields.io/badge/shell_script-100%25-blue)
+![last_commit](https://img.shields.io/github/last-commit/priegue/backup-home-basic)
+![repo_size](https://img.shields.io/github/repo-size/priegue/backup-home-basic)
+![license](https://img.shields.io/badge/license-free-lightgrey)
+
 # 🔄 Backup Home Basic
 Script em Shell Script para automatizar o backup da pasta HOME do usuário, gerando arquivos compactados e 
 logs de execução.
@@ -51,3 +57,22 @@ Ideal para iniciantes em Linux, Shell Script e práticas básicas de automação
 
 ## 📄 Licença
   Este projeto é livre para estudo, uso pessoal e modificação.
+
+------------------------------------------------------------
+
+## ⭐ Sobre este repositório
+
+Este projeto faz parte do meu portfólio DevOps.  
+Ele demonstra práticas reais de automação, organização, documentação multilíngue e versionamento 
+estruturado.
+
+### ✔ Competências aplicadas neste projeto:
+- Automação com Shell Script
+- Estruturação de diretórios em padrões profissionais
+- Criação de logs e auditoria
+- Git e GitHub avançado (Commits, Releases, Tags)
+- Documentação técnica em 3 idiomas
+- Uso de badges e versionamento semântico
+- Preparação de artefatos (ZIPs) para distribuição
+
+Sinta-se à vontade para abrir issues, sugestões ou PRs.
